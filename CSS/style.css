@@ -109,3 +109,9 @@ footer {
   text-align: center;
   font-weight: bold;
 }
+
+.button {
+  display: inline;
+  margin: auto;
+  width: 60%;
+}
